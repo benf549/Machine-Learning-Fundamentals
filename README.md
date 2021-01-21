@@ -18,3 +18,4 @@ This folder is a collection of my efforts to apply what I have learned thus far 
 4. Python Tensor Flow Classification Implementation on Titanic Data Set - ***Classification_TF.ipynb***
 5. Custom Linear Regression Model Implemented on Insurance Data Set - ***Linear_Regression.ipynb***
 6. Custom Locally Weighted Regression Model - ***Locally Weighted Regression.ipynb***
+7. Custom Logistic Regression Model - ***Logistic Regression.ipynb***
